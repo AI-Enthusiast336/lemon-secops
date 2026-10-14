@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "memory": {
+      "command": "bun",
+      "args": [
+        "/ABSOLUTE/PATH/lemon-secops/servers/memory-mcp/src/index.ts"
+      ]
+    },
+    "repo-search": {
+      "command": "bun",
+      "args": [
+        "/ABSOLUTE/PATH/lemon-secops/servers/repo-search-mcp/src/index.ts"
+      ]
+    },
+    "sentinel": {
+      "command": "bun",
+      "args": [
+        "/ABSOLUTE/PATH/lemon-secops/servers/sentinel-mcp/src/index.ts"
+      ]
+    }
+  }
+}

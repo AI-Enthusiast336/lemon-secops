@@ -1,0 +1,24 @@
+# Environment / secrets
+.env
+
+# Machine-specific MCP configuration
+.mcp.json
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Runtime logs
+logs/*.jsonl
+
+# Local memory/runtime data
+data/memory/*.jsonl
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp

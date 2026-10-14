@@ -1,0 +1,4 @@
+[
+  {"id":"INC001","severity":"High","title":"Multiple failed AWS console logins","user":"admin@example.com","status":"New"},
+  {"id":"INC002","severity":"Medium","title":"Suspicious PowerShell execution","host":"DEV-WIN-01","status":"Investigating"}
+]
